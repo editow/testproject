@@ -1,2 +1,2 @@
-hello world!
-Ϊʲô��ʾ���룿
+﻿hello world!
+为什么显示中文乱码呢？
